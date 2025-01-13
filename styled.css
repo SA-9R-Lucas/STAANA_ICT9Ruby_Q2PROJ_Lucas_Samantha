@@ -1,0 +1,14 @@
+h3 {
+	background-color: #fec5bb;
+	text-align: center;
+  	font-size: 50px; 
+  	font-family: Georgia;
+}
+
+img {
+	padding: 50px;
+	width: 500px;
+	height: 550px;
+	background-color: rgba(254, 250, 224, 0.80);
+	
+}

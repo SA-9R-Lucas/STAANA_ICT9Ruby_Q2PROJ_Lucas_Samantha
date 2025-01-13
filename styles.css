@@ -1,0 +1,66 @@
+
+
+.header {
+            background-color: #ffe0e9;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+
+.content {
+           padding: 20px;
+           background-color: #ff9ebb; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; /* Slight transparency */
+        }
+.footer {
+            text-align: center;
+            margin-top: 20px;
+
+
+        }
+
+h2 {
+    text-align: center;
+}
+
+#PhoneNumber, #Age, #Email, #order. #FullName {
+    background-color: #f4acb7 ;
+
+}
+
+h1 {
+    color: 415A77;
+    text-align: center;
+    background-color: #ffc8dd;
+    margin: auto;
+    width: 300px;
+    border: 5px solid #ff7096;
+    border-radius: 10px;
+
+}
+
+button[type="submit"]{
+    background-color: #ffafcc;
+    width: 150px;
+    height: 50px;
+    font-family:    Courier New;
+}
+
+p {
+    text-align: center;
+}
+
+.about{
+    width: 300px;
+    height: 100px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
